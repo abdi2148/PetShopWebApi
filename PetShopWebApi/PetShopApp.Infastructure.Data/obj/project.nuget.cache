@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bX2vIHw7wrDbDYQe0M35LtQf090F6l9XYOwoH4eLFdeN8KBUddHMcH4VzR67doo+rMRHtecaYE0dyk1R9i5ufA==",
+  "dgSpecHash": "mSBFztOVQKOmNyqy/rKXKpTuOFAzPpzbfX6l1N+qfMsJbzYVVSFlSPFrU8Tfy27ASuAoa5So3ozxR6ukBrGxsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\PetShopApp.Infastructure.Static.Data.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\PetShopApp.Infastructure.Static.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

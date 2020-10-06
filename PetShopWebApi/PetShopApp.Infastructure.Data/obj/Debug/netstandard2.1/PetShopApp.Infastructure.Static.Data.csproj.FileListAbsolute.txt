@@ -40,3 +40,17 @@ C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Dat
 C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CopyComplete
 C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
 C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.deps.json
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.dll
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.pdb
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb

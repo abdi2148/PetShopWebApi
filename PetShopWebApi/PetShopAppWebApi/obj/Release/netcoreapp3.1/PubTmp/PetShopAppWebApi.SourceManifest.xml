@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopAppWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <IisApp path="C:\Users\PC\Documents\GitHub\PetShopWebApi\PetShopWebApi\PetShopAppWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\" />
 </sitemanifest>

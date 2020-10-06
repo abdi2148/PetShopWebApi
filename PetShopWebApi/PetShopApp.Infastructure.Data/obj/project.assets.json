@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\PetShopApp.Infastructure.Static.Data.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\PetShopApp.Infastructure.Static.Data.csproj",
       "projectName": "PetShopApp.Infastructure.Static.Data",
-      "projectPath": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\PetShopApp.Infastructure.Static.Data.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\PetShopApp.Infastructure.Static.Data.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Infastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,11 +71,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core.Entities\\PetShopApp.Core.Entities.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core.Entities\\PetShopApp.Core.Entities.csproj"
+            "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core.Entities\\PetShopApp.Core.Entities.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core.Entities\\PetShopApp.Core.Entities.csproj"
             },
-            "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core\\PetShopApp.Core.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core\\PetShopApp.Core.csproj"
+            "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core\\PetShopApp.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp.Core\\PetShopApp.Core.csproj"
             }
           }
         }

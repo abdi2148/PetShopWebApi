@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+II931VXb5KOTU1X5i6Mc4/LlpjTYAx1IrMuyiQcXZSNYsdA7PxC9Z31zo9xHf30upX3nHuhULHN6UA7X2SUMw==",
+  "dgSpecHash": "+ezwIoh0WQRNlCffc47CfCTEM20XgQ8U+gPOHSsjXMMboyM5QvhtpNED8HfGmo3dVAYQElGCt+7gwV1AdYr7jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\PetShopWebApi\\PetShopWebApi\\PetShopApp\\ConsoleApp2020.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\PetShopWebApi\\PetShopWebApi\\PetShopApp\\ConsoleApp2020.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"

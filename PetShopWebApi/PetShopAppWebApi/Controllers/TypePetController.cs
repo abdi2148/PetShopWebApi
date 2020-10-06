@@ -22,21 +22,21 @@ namespace PetShop.UI.WebApi.Controllers
         }
 
 
-        // GET: api/<TypePetControllerr>
+        // GET: api/<TypePetController>
         [HttpGet]
         public ActionResult<IEnumerable<TypePet>> Get()
         {
             return _typePetService.getAllTypePets();
         }
 
-        // GET api/<TypePetControllerr>/5
+        // GET api/<TypePetController>/5
         [HttpGet("{id}")]
         public ActionResult<TypePet> Get(int id)
         {
             return _typePetService.getTypeById(id);
         }
 
-        // POST api/<TypePetControllerr>
+        // POST api/<TypePetController>
         [HttpPost]
         public ActionResult<TypePet> Post([FromBody] TypePet typePet)
         {
@@ -48,7 +48,7 @@ namespace PetShop.UI.WebApi.Controllers
             return StatusCode(500, "typePet created successfully.");
         }
 
-        // PUT api/<TypePetControllerr>/5
+        // PUT api/<TypePetController>/5
         [HttpPut("{id}")]
         public ActionResult<TypePet> Put(int id, [FromBody] TypePet typePet)
         {
@@ -57,10 +57,10 @@ namespace PetShop.UI.WebApi.Controllers
                 return BadRequest("invalid ID input");
             }
             _typePetService.Update(typePet);
-            return StatusCode(500, "Update successfull");
+            return StatusCode(500, "Update successful");
         }
 
-        // DELETE api/<TypePetControllerr>/5
+        // DELETE api/<TypePetController>/5
         [HttpDelete("{id}")]
         public ActionResult<TypePet>Delete(int id)
         {
