@@ -1,0 +1,42 @@
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.deps.json
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.deps.json
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CopyComplete
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.deps.json
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\bin\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.csproj.CopyComplete
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Infastructure.Data\obj\Debug\netstandard2.1\PetShopApp.Infastructure.Static.Data.pdb

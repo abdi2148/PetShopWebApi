@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PetShopApp.Core.Entities\PetShopApp.Core.Entities.csproj" />
+    <ProjectReference Include="..\PetShopApp.Core\PetShopApp.Core.csproj" />
+    <ProjectReference Include="..\PetShopApp.Infastructure.Data\PetShopApp.Infastructure.Static.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,36 @@
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.deps.json
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfo.cs
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.deps.json
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\hp\Source\Repos\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.deps.json
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.deps.json
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Core.Entities\obj\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb

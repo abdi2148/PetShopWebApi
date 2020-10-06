@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\bin\Release\netstandard2.0\PetShopApp.Core.Entities.deps.json
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\bin\Release\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\bin\Release\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\obj\Release\netstandard2.0\PetShopApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\obj\Release\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\obj\Release\netstandard2.0\PetShopApp.Core.Entities.AssemblyInfo.cs
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\obj\Release\netstandard2.0\PetShopApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\obj\Release\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\PC\Desktop\PetShopWebApi\PetShopWebApi\PetShopApp.Core.Entities\obj\Release\netstandard2.0\PetShopApp.Core.Entities.pdb

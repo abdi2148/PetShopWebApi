@@ -1,0 +1,36 @@
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.deps.json
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.AssemblyInfo.cs
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csproj.CopyComplete
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\source\repos\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.deps.json
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.AssemblyInfo.cs
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csproj.CopyComplete
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\Desktop\CSharp stuff\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.deps.json
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Coree.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\bin\Debug\netstandard2.1\PetShopApp.Core.Entities.pdb
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.AssemblyInfo.cs
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.csproj.CopyComplete
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.dll
+C:\Users\hp\Desktop\CSharp stuff\SDP\PetShopApp2020\PetShopApp.Coree\obj\Debug\netstandard2.1\PetShopApp.Coree.pdb
