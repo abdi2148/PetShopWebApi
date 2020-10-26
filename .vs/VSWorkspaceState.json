@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\PetShopWebApi",
-    "\\PetShopWebApi\\PetShopApp"
+    "\\PetShopWebApi\\PetShopApp",
+    "\\PetShopWebApi\\PetShopAppWebApi"
   ],
   "SelectedNode": "\\PetShopWebApi\\PetShopApp\\PetShopApp2020.sln",
   "PreviewInSolutionExplorer": false
